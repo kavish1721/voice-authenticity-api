@@ -24,3 +24,5 @@ models/stage2_best.pt
 .DS_Store
 Thumbs.db
 .vscode/
+.vercel
+.env*
